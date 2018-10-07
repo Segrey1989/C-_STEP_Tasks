@@ -1,0 +1,17 @@
+D:/Kvachonak/Calendar/userDate/obj/Debug/userDate.csprojResolveAssemblyReference.cache
+D:/Kvachonak/Calendar/userDate/bin/Debug/userDate.dll
+D:/Kvachonak/Calendar/userDate/bin/Debug/userDate.pdb
+D:/Kvachonak/Calendar/userDate/obj/Debug/userDate.dll
+D:/Kvachonak/Calendar/userDate/obj/Debug/userDate.pdb
+/Users/Siarhei/Downloads/Calendar/userDate/bin/Debug/userDate.dll
+/Users/Siarhei/Downloads/Calendar/userDate/bin/Debug/userDate.pdb
+/Users/Siarhei/Downloads/Calendar/userDate/obj/Debug/userDate.csprojResolveAssemblyReference.cache
+/Users/Siarhei/Downloads/Calendar/userDate/obj/Debug/userDate.csproj.CoreCompileInputs.cache
+/Users/Siarhei/Downloads/Calendar/userDate/obj/Debug/userDate.dll
+/Users/Siarhei/Downloads/Calendar/userDate/obj/Debug/userDate.pdb
+/Users/Siarhei/Desktop/STEP/С#/Calendar/userDate/bin/Debug/userDate.dll
+/Users/Siarhei/Desktop/STEP/С#/Calendar/userDate/bin/Debug/userDate.pdb
+/Users/Siarhei/Desktop/STEP/С#/Calendar/userDate/obj/Debug/userDate.csprojResolveAssemblyReference.cache
+/Users/Siarhei/Desktop/STEP/С#/Calendar/userDate/obj/Debug/userDate.csproj.CoreCompileInputs.cache
+/Users/Siarhei/Desktop/STEP/С#/Calendar/userDate/obj/Debug/userDate.dll
+/Users/Siarhei/Desktop/STEP/С#/Calendar/userDate/obj/Debug/userDate.pdb

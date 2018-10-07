@@ -1,0 +1,13 @@
+D:/Kvachonak/app1/app1/bin/Debug/app1.exe.config
+D:/Kvachonak/app1/app1/bin/Debug/app1.exe
+D:/Kvachonak/app1/app1/bin/Debug/app1.pdb
+D:/Kvachonak/app1/app1/obj/Debug/app1.csprojResolveAssemblyReference.cache
+D:/Kvachonak/app1/app1/obj/Debug/app1.exe
+D:/Kvachonak/app1/app1/obj/Debug/app1.pdb
+/Users/Siarhei/Downloads/app1/app1/bin/Debug/app1.exe.config
+/Users/Siarhei/Downloads/app1/app1/bin/Debug/app1.exe
+/Users/Siarhei/Downloads/app1/app1/bin/Debug/app1.pdb
+/Users/Siarhei/Downloads/app1/app1/obj/Debug/app1.csprojResolveAssemblyReference.cache
+/Users/Siarhei/Downloads/app1/app1/obj/Debug/app1.csproj.CoreCompileInputs.cache
+/Users/Siarhei/Downloads/app1/app1/obj/Debug/app1.exe
+/Users/Siarhei/Downloads/app1/app1/obj/Debug/app1.pdb

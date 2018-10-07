@@ -1,0 +1,6 @@
+/Users/Siarhei/Downloads/app1/app1/bin/Release/app1.exe.config
+/Users/Siarhei/Downloads/app1/app1/bin/Release/app1.exe
+/Users/Siarhei/Downloads/app1/app1/bin/Release/app1.pdb
+/Users/Siarhei/Downloads/app1/app1/obj/Release/app1.csproj.CoreCompileInputs.cache
+/Users/Siarhei/Downloads/app1/app1/obj/Release/app1.exe
+/Users/Siarhei/Downloads/app1/app1/obj/Release/app1.pdb

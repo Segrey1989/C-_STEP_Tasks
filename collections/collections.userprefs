@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{549ACFFD-88D7-4D09-B8EA-4959908BA9DD}|Default">
+  <MonoDevelop.Ide.ItemProperties.collections PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="collections/Program.cs">
+    <Files>
+      <File FileName="collections/Program.cs" Line="17" Column="59" />
+      <File FileName="collections/Text.txt" Line="5" Column="33" />
+      <File FileName="collections/Data.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

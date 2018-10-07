@@ -1,0 +1,6 @@
+/Users/Siarhei/Desktop/STEP/С#/lab(4 classes)/lab(4 classes)/bin/Release/lab(4 classes).exe.config
+/Users/Siarhei/Desktop/STEP/С#/lab(4 classes)/lab(4 classes)/bin/Release/lab(4 classes).exe
+/Users/Siarhei/Desktop/STEP/С#/lab(4 classes)/lab(4 classes)/bin/Release/lab(4 classes).pdb
+/Users/Siarhei/Desktop/STEP/С#/lab(4 classes)/lab(4 classes)/obj/Release/lab(4 classes).csproj.CoreCompileInputs.cache
+/Users/Siarhei/Desktop/STEP/С#/lab(4 classes)/lab(4 classes)/obj/Release/lab(4 classes).exe
+/Users/Siarhei/Desktop/STEP/С#/lab(4 classes)/lab(4 classes)/obj/Release/lab(4 classes).pdb

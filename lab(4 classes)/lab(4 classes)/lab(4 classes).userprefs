@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{58E3347D-E6A2-48A2-B55A-746FC4A189D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Bucket.cs" Line="72" Column="1" />
+      <File FileName="Customer.cs" Line="20" Column="1" />
+      <File FileName="Item.cs" Line="23" Column="1" />
+      <File FileName="ListItem.cs" Line="42" Column="1" />
+      <File FileName="Program.cs" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.lab_2284_220classes_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

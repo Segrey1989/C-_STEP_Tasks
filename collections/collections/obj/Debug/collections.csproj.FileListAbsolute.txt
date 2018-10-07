@@ -1,0 +1,13 @@
+D:/Kvachonak/collections/collections/bin/Debug/collections.exe.config
+D:/Kvachonak/collections/collections/bin/Debug/collections.exe
+D:/Kvachonak/collections/collections/bin/Debug/collections.pdb
+D:/Kvachonak/collections/collections/obj/Debug/collections.csprojResolveAssemblyReference.cache
+D:/Kvachonak/collections/collections/obj/Debug/collections.exe
+D:/Kvachonak/collections/collections/obj/Debug/collections.pdb
+/Users/Siarhei/Downloads/collections/collections/bin/Debug/collections.exe.config
+/Users/Siarhei/Downloads/collections/collections/bin/Debug/collections.exe
+/Users/Siarhei/Downloads/collections/collections/bin/Debug/collections.pdb
+/Users/Siarhei/Downloads/collections/collections/obj/Debug/collections.csprojResolveAssemblyReference.cache
+/Users/Siarhei/Downloads/collections/collections/obj/Debug/collections.csproj.CoreCompileInputs.cache
+/Users/Siarhei/Downloads/collections/collections/obj/Debug/collections.exe
+/Users/Siarhei/Downloads/collections/collections/obj/Debug/collections.pdb

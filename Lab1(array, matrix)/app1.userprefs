@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{9A0655E4-3A88-4008-9FA1-9FF14D9DDAEA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="app1/MatrixD.cs">
+    <Files>
+      <File FileName="app1/Array.cs" Line="65" Column="10" />
+      <File FileName="app1/ArrayD.cs" Line="92" Column="10" />
+      <File FileName="app1/Matrix.cs" Line="41" Column="56" />
+      <File FileName="app1/MatrixD.cs" Line="71" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.app1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

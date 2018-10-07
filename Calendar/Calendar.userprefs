@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{3F4BBC63-A3C7-44F5-ADC6-D1297B9EAEE9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="userDate/Class1.cs">
+    <Files>
+      <File FileName="userDate/Class1.cs" Line="27" Column="25" />
+      <File FileName="Calendar/Program.cs" Line="24" Column="37" />
+      <File FileName="userDate/Exceptions.cs" Line="11" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Calendar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

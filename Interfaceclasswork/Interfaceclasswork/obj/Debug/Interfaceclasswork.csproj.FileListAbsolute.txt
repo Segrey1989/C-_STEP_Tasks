@@ -1,0 +1,10 @@
+/Users/Siarhei/Downloads/2018-09-26/Interfaceclasswork/Interfaceclasswork/obj/Debug/Interfaceclasswork.csproj.CoreCompileInputs.cache
+/Users/Siarhei/Downloads/2018-09-26/Interfaceclasswork/Interfaceclasswork/bin/Debug/Interfaceclasswork.exe
+/Users/Siarhei/Downloads/2018-09-26/Interfaceclasswork/Interfaceclasswork/bin/Debug/Interfaceclasswork.pdb
+/Users/Siarhei/Downloads/2018-09-26/Interfaceclasswork/Interfaceclasswork/obj/Debug/Interfaceclasswork.exe
+/Users/Siarhei/Downloads/2018-09-26/Interfaceclasswork/Interfaceclasswork/obj/Debug/Interfaceclasswork.pdb
+/Users/Siarhei/Desktop/STEP/С#/Interfaceclasswork/Interfaceclasswork/bin/Debug/Interfaceclasswork.exe
+/Users/Siarhei/Desktop/STEP/С#/Interfaceclasswork/Interfaceclasswork/bin/Debug/Interfaceclasswork.pdb
+/Users/Siarhei/Desktop/STEP/С#/Interfaceclasswork/Interfaceclasswork/obj/Debug/Interfaceclasswork.csproj.CoreCompileInputs.cache
+/Users/Siarhei/Desktop/STEP/С#/Interfaceclasswork/Interfaceclasswork/obj/Debug/Interfaceclasswork.exe
+/Users/Siarhei/Desktop/STEP/С#/Interfaceclasswork/Interfaceclasswork/obj/Debug/Interfaceclasswork.pdb

@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{D34D4A08-4BED-4D2D-9EA6-64272BAC1628}|Default">
+  <MonoDevelop.Ide.ItemProperties.Interfaceclasswork PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interfaceclasswork/Leader.cs">
+    <Files>
+      <File FileName="Interfaceclasswork/Home.cs" Line="15" Column="9" />
+      <File FileName="Interfaceclasswork/Ipart.cs" Line="13" Column="1" />
+      <File FileName="Interfaceclasswork/Worker.cs" Line="44" Column="51" />
+      <File FileName="Interfaceclasswork/IWorker.cs" Line="15" Column="1" />
+      <File FileName="Interfaceclasswork/Program.cs" Line="27" Column="1" />
+      <File FileName="Interfaceclasswork/Leader.cs" Line="12" Column="42" />
+      <File FileName="Interfaceclasswork/Basement.cs" Line="14" Column="31" />
+      <File FileName="Interfaceclasswork/Walls.cs" Line="13" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

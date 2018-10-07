@@ -1,0 +1,11 @@
+/Users/Siarhei/Desktop/STEP/С#/Goods/Goods/obj/Debug/netcoreapp2.0/Goods.csprojResolveAssemblyReference.cache
+/Users/Siarhei/Desktop/STEP/С#/Goods/Goods/obj/Debug/netcoreapp2.0/Goods.csproj.CoreCompileInputs.cache
+/Users/Siarhei/Desktop/STEP/С#/Goods/Goods/obj/Debug/netcoreapp2.0/Goods.AssemblyInfoInputs.cache
+/Users/Siarhei/Desktop/STEP/С#/Goods/Goods/obj/Debug/netcoreapp2.0/Goods.AssemblyInfo.cs
+/Users/Siarhei/Desktop/STEP/С#/Goods/Goods/bin/Debug/netcoreapp2.0/Goods.deps.json
+/Users/Siarhei/Desktop/STEP/С#/Goods/Goods/bin/Debug/netcoreapp2.0/Goods.runtimeconfig.json
+/Users/Siarhei/Desktop/STEP/С#/Goods/Goods/bin/Debug/netcoreapp2.0/Goods.runtimeconfig.dev.json
+/Users/Siarhei/Desktop/STEP/С#/Goods/Goods/bin/Debug/netcoreapp2.0/Goods.dll
+/Users/Siarhei/Desktop/STEP/С#/Goods/Goods/bin/Debug/netcoreapp2.0/Goods.pdb
+/Users/Siarhei/Desktop/STEP/С#/Goods/Goods/obj/Debug/netcoreapp2.0/Goods.dll
+/Users/Siarhei/Desktop/STEP/С#/Goods/Goods/obj/Debug/netcoreapp2.0/Goods.pdb

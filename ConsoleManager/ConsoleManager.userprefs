@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{305F7E81-9969-46DA-9639-0A3290B0E903}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleManager/Manager.cs">
+    <Files>
+      <File FileName="ConsoleManager/Program.cs" Line="14" Column="1" />
+      <File FileName="ConsoleManager/Manager.cs" Line="99" Column="14" />
+      <File FileName="ConsoleManager/Exception.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleManager PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

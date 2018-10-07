@@ -1,0 +1,11 @@
+/Users/Siarhei/Projects/ConsoleManager/ConsoleManager/bin/Debug/netcoreapp2.0/ConsoleManager.deps.json
+/Users/Siarhei/Projects/ConsoleManager/ConsoleManager/bin/Debug/netcoreapp2.0/ConsoleManager.runtimeconfig.json
+/Users/Siarhei/Projects/ConsoleManager/ConsoleManager/bin/Debug/netcoreapp2.0/ConsoleManager.runtimeconfig.dev.json
+/Users/Siarhei/Projects/ConsoleManager/ConsoleManager/bin/Debug/netcoreapp2.0/ConsoleManager.dll
+/Users/Siarhei/Projects/ConsoleManager/ConsoleManager/bin/Debug/netcoreapp2.0/ConsoleManager.pdb
+/Users/Siarhei/Projects/ConsoleManager/ConsoleManager/obj/Debug/netcoreapp2.0/ConsoleManager.csprojResolveAssemblyReference.cache
+/Users/Siarhei/Projects/ConsoleManager/ConsoleManager/obj/Debug/netcoreapp2.0/ConsoleManager.csproj.CoreCompileInputs.cache
+/Users/Siarhei/Projects/ConsoleManager/ConsoleManager/obj/Debug/netcoreapp2.0/ConsoleManager.AssemblyInfoInputs.cache
+/Users/Siarhei/Projects/ConsoleManager/ConsoleManager/obj/Debug/netcoreapp2.0/ConsoleManager.AssemblyInfo.cs
+/Users/Siarhei/Projects/ConsoleManager/ConsoleManager/obj/Debug/netcoreapp2.0/ConsoleManager.dll
+/Users/Siarhei/Projects/ConsoleManager/ConsoleManager/obj/Debug/netcoreapp2.0/ConsoleManager.pdb

@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{B1B355FA-7062-427C-8E69-B11D4AF3F16B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Items/FoodItem.cs">
+    <Files>
+      <File FileName="Items/ItemBasic.cs" Line="21" Column="8" />
+      <File FileName="Items/FoodItem.cs" Line="3" Column="2" />
+      <File FileName="Items/Program.cs" Line="23" Column="34" />
+      <File FileName="Items/Bucket.cs" Line="50" Column="48" />
+      <File FileName="Items/Chemicals.cs" Line="17" Column="63" />
+      <File FileName="Items/Books.cs" Line="18" Column="68" />
+      <File FileName="Items/Tech.cs" Line="9" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Items PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

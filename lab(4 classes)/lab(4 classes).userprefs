@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{58E3347D-E6A2-48A2-B55A-746FC4A189D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab(4 classes)/Program.cs">
+    <Files>
+      <File FileName="lab(4 classes)/Program.cs" Line="26" Column="40" />
+      <File FileName="lab(4 classes)/Item.cs" Line="1" Column="1" />
+      <File FileName="lab(4 classes)/ListItem.cs" Line="1" Column="1" />
+      <File FileName="lab(4 classes)/Bucket.cs" Line="38" Column="13" />
+      <File FileName="lab(4 classes)/Customer.cs" Line="19" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.lab_2284_220classes_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
